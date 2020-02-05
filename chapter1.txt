@@ -1,5 +1,5 @@
 hello there!
-this is master branch
+
 this is chapter 1
 
 I'm changing it.
